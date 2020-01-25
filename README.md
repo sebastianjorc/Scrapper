@@ -1,4 +1,4 @@
-# Scrapper 🔎💬
+# <font color='c5f015'>S</font>crapper 🔎💬
 👁‍🗨 Web scrapper de uso personal. El software realiza scrapper a páginas web y notificar via sms cuando las condiciones de alerta en un producto satisfasgan la búsqueda del usuario.
 
 ------------
@@ -7,3 +7,4 @@
 
 ##### Librerías utilizadas
 - [<img src="https://3.bp.blogspot.com/-5S6KmZbT2n0/XJTeV2J10DI/AAAAAAAAJTY/nxbivtRMkIMezQFHM6TY3ITpchCDjfiiwCK4BGAYYCw/s1600/logo%2Btwilio%2Bvector.png" width="20" height="20"> Twilio-Java](https://github.com/twilio/twilio-java "Twilio-Java")
+- [☕️ JSoup](https://jsoup.org/ "JSoup")
