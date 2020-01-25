@@ -1,4 +1,4 @@
-# Scrapper 🔎💬
+#<font color='c5f015'>S</font>crapper 🔎💬
 👁‍🗨 Web scrapper de uso personal. El software realiza scrapper a páginas web y notificar via sms cuando las condiciones de alerta en un producto satisfasgan la búsqueda del usuario.
 
 ------------
