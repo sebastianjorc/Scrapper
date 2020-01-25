@@ -1,5 +1,5 @@
-# Scrapper
-Web scrapper de uso personal. Es software puede realizar scrapper a páginas web y notificar via sms cuando las condiciones de un producto satisfasgan la búsqueda del usuario.
+# Scrapper :tw-1f50d: 
+Web scrapper de uso personal. El software realiza scrapper a páginas web y notificar via sms cuando las condiciones de alerta en un producto satisfasgan la búsqueda del usuario.
 
 ------------
 ##### webs implementadas
